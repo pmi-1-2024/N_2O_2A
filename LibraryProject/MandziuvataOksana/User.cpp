@@ -64,9 +64,9 @@ void User::SetPassword(const string& newPassword) {
     password = newPassword;
 }
 
-void User::SetEmail(const string& newEmail) {
-    ValidateEmail();
-    email = newEmail;
+bool User::operator==(User& other) const
+{
+    return userId == other.userId;
 }
 
 istream& operator>>(istream& is, User& u)
@@ -77,7 +77,6 @@ istream& operator>>(istream& is, User& u)
 
 ostream& operator<<(ostream& os, const User& u)
 {
-    os << u.userId << " " << u.firstName << " " << u.lastName << ", " << u.email << " " << u.password;
+    os << "\n" << u.userId << " " << u.firstName << " " << u.lastName << ", " << u.email << " " << u.password;
     return os;
 }
-

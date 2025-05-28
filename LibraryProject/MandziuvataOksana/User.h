@@ -24,9 +24,9 @@ public:
     void ConsoleInput();
     bool CheckPassword(const string& inputPassword) const;
     void SetPassword(const string& newPassword);
-    void SetEmail(const string& newEmail);
+    bool operator==(User& other) const;
     friend istream& operator>>(istream& is, User& u);
     friend ostream& operator <<(ostream& os, const User& u);
 };
 
-#endif 
+#endif

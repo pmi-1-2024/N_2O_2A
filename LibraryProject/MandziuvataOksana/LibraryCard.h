@@ -5,7 +5,7 @@
 #include "Role.h"
 #include <deque>
 #include "Library.h"
-class LibraryCard{
+class LibraryCard {
 private:
 	string library_ID;
 	Role role;
