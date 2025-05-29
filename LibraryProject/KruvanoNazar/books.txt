@@ -1,0 +1,35 @@
+10
+1 4524 Zoology; 111 scientific 2001 2 90
+9343 Ray Palmer 
+8724 Sara Lance
+9001 Blue Moon,Naukova 49;
+2 7364 Botany; 111 scientific 2005 1 150
+9343 Ray Palmer
+pdf 5.2
+2 4356 Super Boy; 843 Fantasy 2006 2 50
+3243 Gray Finch
+9355 Drew Manson
+pdf 5.4 
+1 4350 World; 111 scientific 2005 1 100
+6432 Karl Logerfeld
+3433 Green World, Patona 43;
+1 4444 Witcher; 843 Fantasy 1986 1 500
+5735 Andrzej Shapkowski
+5967 SuperNowa,Green 15;
+1 8812 Grey Bees; 231 fiction 2018 1 300
+1111 Andriy Kurkov 
+1212 Quercus Publishing Plc,Shevchenka 32;
+2 1414 The Silver Bone; 123 Detective 2024 1 235
+1111 Andriy Kurkov
+pdf 6.0
+1 1011 The Language of War; 221 Historical 2023 1 200
+5133 Oleksandr Muhed 
+7777 Penguin, Lesi Ukrainky 21;
+2 9912 The Legend of the Headless; 911 thriller 2020 1 320
+3899 Andriy Kokotuha 
+pdf 5.5
+1 5563 Scary Tales for Our Own; 910 horror 2020 1 300
+3899 Andriy Kokotuha
+7211 Knyharnya YE, Slastiona 12;
+
+
